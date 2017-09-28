@@ -9,6 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^2.2.5"
+    "mongodb": "^2.2.5",
+    "mongoose": "^4.11.13"
+  },
+  "devDependencies": {
+    "eslint": "^4.7.2",
+    "eslint-plugin-mocha": "^4.11.0",
+    "mocha": "^3.5.3"
   }
 }
